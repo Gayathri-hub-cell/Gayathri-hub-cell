@@ -26,8 +26,8 @@
       </p>
       <p><sub>💡 Open to data science internships & collaborations</sub></p>
     </td>
-    <td valign="middle" width="46%">
-      <img src="./coder.gif" width="100%" alt="gayathri.py"/>
+    <td valign="middle" width="46%" align="center">
+      <img src="./orb.gif" width="98%" alt="AI neural network"/>
     </td>
   </tr>
 </table>
