@@ -1,6 +1,6 @@
 <!-- ====== HERO BANNER (animated GIF) ====== -->
 <p align="center">
-  <img src="./banner.gif" width="100%" alt="Gayathri — Passionate Data Science Developer" />
+  <img src="./banner.gif" width="100%" alt="Gayathri Narayanan — Aspiring Data Scientist" />
 </p>
 
 <!-- ====== TYPING INTRO ====== -->
@@ -14,7 +14,7 @@
 
 ---
 
-<!-- ====== CONNECT + CODE ====== -->
+<!-- ====== CONNECT + VISUAL ====== -->
 <table>
   <tr>
     <td valign="top" width="54%">
@@ -27,7 +27,7 @@
       <p><sub>💡 Open to data science internships & collaborations</sub></p>
     </td>
     <td valign="middle" width="46%" align="center">
-      <img src="./orb.gif" width="98%" alt="AI neural network"/>
+      <img src="./wave.gif" width="100%" alt="data in motion"/>
     </td>
   </tr>
 </table>
