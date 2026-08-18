@@ -8,24 +8,47 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8E2DE2&center=true&vCenter=true&width=600&lines=M.Sc.+Data+Science+Student+in+Potsdam;Python+%7C+Machine+Learning+%7C+NLP;Building+projects+%26+learning+by+doing;Turning+data+into+insight)](https://git.io/typing-svg)
 
-<!-- ====== PROFILE VIEWS + BADGES ====== -->
 <img src="https://komarev.com/ghpvc/?username=Gayathri-hub-cell&label=Profile%20views&color=8E2DE2&style=flat" alt="profile views" />
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gayathri-narayanan-88357b242)
-[![Gmail](https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashtagayathri@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gayathri-hub-cell)
 
 </div>
 
 ---
 
+<!-- ====== CONNECT + CODE ====== -->
+<table>
+  <tr>
+    <td valign="top" width="54%">
+      <h3>🔗 Connect with me</h3>
+      <p>
+        <a href="https://www.linkedin.com/in/gayathri-narayanan-88357b242"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+        <a href="https://github.com/Gayathri-hub-cell"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+        <a href="mailto:ashtagayathri@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+      </p>
+      <p><sub>💡 Open to data science internships & collaborations</sub></p>
+    </td>
+    <td valign="middle" width="46%">
+      <img src="./coder.gif" width="100%" alt="gayathri.py"/>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🚀 About Me
 
-- 🎓 I'm an **M.Sc. Data Science** student at the **University of Europe for Applied Sciences, Potsdam** (Computer Science background)
-- 🔭 Currently building hands-on projects in **data analysis, machine learning, and NLP**
-- 🧠 Exploring **LLM APIs (Groq, LLaMA)**, prompt engineering, and predictive analytics
-- 🌱 Learning **end-to-end ML workflows** and building data apps with **Streamlit**
-- 💬 Ask me about **Python, scikit-learn, and turning messy data into insight**
+🚀 I'm an **M.Sc. Data Science** student at the **University of Europe for Applied Sciences, Potsdam** — turning raw data into meaningful insight and building ML & LLM-powered projects.
+
+**🔬 I specialize in:**
+
+- 📊 **Data Analysis & Business Intelligence**
+- 🤖 **Machine Learning & AI**
+- 💬 **Natural Language Processing (NLP)**
+- 🧠 **LLM applications** — Groq & LLaMA APIs, prompt engineering
+- 📈 **Predictive modeling** with pandas & scikit-learn
+
+<br/>
+
+- 🌱 Currently learning **end-to-end ML workflows** and building data apps with **Streamlit**
 - 🌍 Languages: English (fluent) · German (A2, learning) · Tamil (native)
 - 📫 Reach me: **ashtagayathri@gmail.com**
 
