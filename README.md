@@ -1,5 +1,7 @@
-<!-- ====== HEADER BANNER ====== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=200&section=header&text=Hi%20there,%20I'm%20Gayathri%20👋&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Data%20Science%20•%20Machine%20Learning%20•%20NLP%20&%20LLMs&descAlignY=55&descSize=18" alt="header"/>
+<!-- ====== HERO BANNER (animated GIF) ====== -->
+<p align="center">
+  <img src="./banner.gif" width="100%" alt="Gayathri — Passionate Data Science Developer" />
+</p>
 
 <!-- ====== TYPING INTRO ====== -->
 <div align="center">
