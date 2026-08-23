@@ -27,7 +27,7 @@
 <p><sub>💡 Open to data science internships & collaborations</sub></p>
 </td>
 <td valign="middle" width="46%" align="center">
-<img src="./demo.gif" width="100%" alt="project demo"/>
+<img src="./coding-demo.gif" width="100%" alt="project demo"/>
 </td>
 </tr>
 </table>
