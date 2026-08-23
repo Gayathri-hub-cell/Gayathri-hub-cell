@@ -96,12 +96,6 @@
 
 ---
 
-## 🎥 Demo
-
-https://github.com/user-attachments/assets/9931c202-bf5b-4561-856d-408c7a859b85
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
