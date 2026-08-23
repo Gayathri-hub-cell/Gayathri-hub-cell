@@ -1,6 +1,6 @@
 <!-- ====== HERO BANNER (animated GIF) ====== -->
 <p align="center">
-  <img src="./banner.gif" width="100%" alt="Gayathri Narayanan — Aspiring Data Scientist" />
+<img src="./banner.gif" width="100%" alt="Gayathri Narayanan — Aspiring Data Scientist" />
 </p>
 
 <!-- ====== TYPING INTRO ====== -->
@@ -16,20 +16,20 @@
 
 <!-- ====== CONNECT + VISUAL ====== -->
 <table>
-  <tr>
-    <td valign="top" width="54%">
-      <h3>🔗 Connect with me</h3>
-      <p>
-        <a href="https://www.linkedin.com/in/gayathri-narayanan-88357b242"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-        <a href="https://github.com/Gayathri-hub-cell"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-        <a href="mailto:ashtagayathri@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-      </p>
-      <p><sub>💡 Open to data science internships & collaborations</sub></p>
-    </td>
-    <td valign="middle" width="46%" align="center">
-      <img src="./wave.gif" width="100%" alt="data in motion"/>
-    </td>
-  </tr>
+<tr>
+<td valign="top" width="54%">
+<h3>🔗 Connect with me</h3>
+<p>
+<a href="https://www.linkedin.com/in/gayathri-narayanan-88357b242"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/Gayathri-hub-cell"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="mailto:ashtagayathri@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+<p><sub>💡 Open to data science internships & collaborations</sub></p>
+</td>
+<td valign="middle" width="46%" align="center">
+<img src="./wave.gif" width="100%" alt="data in motion"/>
+</td>
+</tr>
 </table>
 
 ---
@@ -93,6 +93,12 @@
 | 🏦 [**german-credit-risk-analysis**](https://github.com/Gayathri-hub-cell/german-credit-risk-analysis) | Machine learning project predicting loan credit risk using Python & scikit-learn *(in progress)* |
 | 🤖 [**llm-projects**](https://github.com/Gayathri-hub-cell/llm-projects) | Python projects using LLMs via the Groq API — including a **voice-command intent classifier** and test-result analysis |
 | 📊 **Data Visualization Projects** | Exploratory data analysis and charts built in Jupyter |
+
+---
+
+## 🎥 Demo
+
+https://github.com/user-attachments/assets/9931c202-bf5b-4561-856d-408c7a859b85
 
 ---
 
