@@ -6,7 +6,7 @@
 <!-- ====== TYPING INTRO ====== -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8E2DE2&center=true&vCenter=true&width=600&lines=M.Sc.+Data+Science+Student+in+Potsdam;Python+%7C+Machine+Learning+%7C+NLP;Building+projects+%26+learning+by+doing;Turning+data+into+insight)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8E2DE2&center=true&vCenter=true&width=600&lines=M.Sc.+Data+Science+Student+in+Potsdam;Open+to+Werkstudent+roles+in+Berlin;Python+%7C+Machine+Learning+%7C+NLP;Building+projects+%26+learning+by+doing;Turning+data+into+insight)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=Gayathri-hub-cell&label=Profile%20views&color=8E2DE2&style=flat" alt="profile views" />
 
@@ -20,11 +20,11 @@
 <td valign="top" width="54%">
 <h3>🔗 Connect with me</h3>
 <p>
-<a href="https://www.linkedin.com/in/gayathri-narayanan-88357b242"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/narayanan-gayathri/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://github.com/Gayathri-hub-cell"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="mailto:ashtagayathri@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
-<p><sub>💡 Open to data science internships & collaborations</sub></p>
+<p><sub>💡 Open to Werkstudent & internship roles in data science and analytics, Berlin or remote</sub></p>
 </td>
 <td valign="middle" width="46%" align="center">
 <img src="./coding-demo.gif" width="100%" alt="project demo"/>
@@ -40,7 +40,7 @@
 
 **🔬 I specialize in:**
 
-- 📊 **Data Analysis & Business Intelligence**
+- 📊 **Data Analysis & Visualization**
 - 🤖 **Machine Learning & AI**
 - 💬 **Natural Language Processing (NLP)**
 - 🧠 **LLM applications** — Groq & LLaMA APIs, prompt engineering
@@ -49,7 +49,7 @@
 <br/>
 
 - 🌱 Currently learning **end-to-end ML workflows** and building data apps with **Streamlit**
-- 🌍 Languages: English (fluent) · German (A2, learning) · Tamil (native)
+- 🌍 Languages: English (fluent) · German (B1, improving) · Tamil (native)
 - 📫 Reach me: **ashtagayathri@gmail.com**
 
 ---
@@ -60,10 +60,6 @@
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### Data Science & ML
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -82,6 +78,11 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
+### Currently Learning
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
 </div>
 
 ---
@@ -90,7 +91,7 @@
 
 | Project | Description |
 | :--- | :--- |
-| 🏦 [**german-credit-risk-analysis**](https://github.com/Gayathri-hub-cell/german-credit-risk-analysis) | Machine learning project predicting loan credit risk using Python & scikit-learn *(in progress)* |
+| 🏦 [**german-credit-risk-analysis**](https://github.com/Gayathri-hub-cell/german-credit-risk-analysis) | Predicts loan credit risk from 20 applicant features — compares Logistic Regression & Random Forest, explains key risk drivers and flags fairness concerns |
 | 🤖 [**llm-projects**](https://github.com/Gayathri-hub-cell/llm-projects) | Python projects using LLMs via the Groq API — including a **voice-command intent classifier** and test-result analysis |
 | 📊 **Data Visualization Projects** | Exploratory data analysis and charts built in Jupyter |
 
