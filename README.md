@@ -48,7 +48,7 @@
 
 <br/>
 
-- 🌱 Currently learning **end-to-end ML workflows** and building data apps with **Streamlit**
+- 🌱 Currently learning **SQL** and **Power BI**, and taking ML projects from notebook to deployed app
 - 🌍 Languages: English (fluent) · German (B1, improving) · Tamil (native)
 - 📫 Reach me: **ashtagayathri@gmail.com**
 
@@ -66,6 +66,8 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ### NLP & LLMs
 ![LLaMA](https://img.shields.io/badge/LLaMA-0467DF?style=for-the-badge&logo=meta&logoColor=white)
@@ -77,11 +79,12 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ### Currently Learning
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 </div>
 
@@ -89,46 +92,16 @@
 
 ## 📌 Featured Projects
 
-| Project | Description |
+| Project | What it shows |
 | :--- | :--- |
-| 🏦 [**german-credit-risk-analysis**](https://github.com/Gayathri-hub-cell/german-credit-risk-analysis) | Predicts loan credit risk from 20 applicant features — compares Logistic Regression & Random Forest, explains key risk drivers and flags fairness concerns |
-| 🤖 [**llm-projects**](https://github.com/Gayathri-hub-cell/llm-projects) | Python projects using LLMs via the Groq API — including a **voice-command intent classifier** and test-result analysis |
-| 📊 **Data Visualization Projects** | Exploratory data analysis and charts built in Jupyter |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gayathri-hub-cell&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=8E2DE2&icon_color=8E2DE2&count_private=true" alt="stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gayathri-hub-cell&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=8E2DE2&langs_count=8" alt="top langs" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Gayathri-hub-cell&theme=react&hide_border=true&background=0D1117&ring=8E2DE2&fire=8E2DE2&currStreakLabel=8E2DE2" alt="streak" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Gayathri-hub-cell&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1" alt="trophies" />
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gayathri-hub-cell&theme=react-dark&hide_border=true&bg_color=0D1117&color=8E2DE2&line=8E2DE2&point=ffffff" alt="activity graph" width="95%" />
-
-</div>
+| 🌍 [**The Great Carbon Divergence**](https://github.com/Gayathri-hub-cell/carbon-divergence-final) · [Live dashboard](https://carbon-divergence-final-joqlkmvwikc6bpdzybmcsd.streamlit.app/) | CO₂ emissions vs. economic growth across 218 countries (1850–2024). Exploratory analysis in Jupyter plus an interactive **Streamlit** dashboard with **Plotly** maps, filters and KPIs |
+| 🔌 [**EU EV Transition Tracker**](https://github.com/Gayathri-hub-cell/ev-transition-tracker) | Compares EU electric-car adoption with public charging infrastructure. Finds Germany has the largest gap: **13.4 BEVs per public charger**, about 41,000 chargers short of the EU benchmark. pandas analysis, Chart.js dashboard and LLM-drafted policy briefs |
+| 🛰️ [**Satellite Land-Cover under Seasonal Shift**](https://github.com/Gayathri-hub-cell/satellite-landcover-seasonal-transfer) · [Results page](https://gayathri-hub-cell.github.io/satellite-landcover-seasonal-transfer/) | Sentinel-2 (SEN12MS) land-cover classification, trained on spring and tested on other seasons. A frozen **ResNet50** + logistic regression reached **45.1% accuracy** vs. 38.1% for a CNN trained from scratch (24.6% baseline). TensorFlow, scikit-learn |
+| 🏥 [**Healthcare Appointment System on Azure**](https://github.com/Gayathri-hub-cell/healthcare-appointment-azure) | Cloud-native booking app: React + Express on **Azure App Service**, private **Azure SQL Database**, **Microsoft Entra ID** sign-in, Key Vault and managed identity |
+| 🥗 [**Diet Recommendation System**](https://github.com/Gayathri-hub-cell/diet-recommendation-system) | Team project: Node.js/Express API with **MySQL**, Streamlit frontend and LLM-generated diet plans (Groq + LangChain) |
+| 🏦 [**German Credit Risk Analysis**](https://github.com/Gayathri-hub-cell/german-credit-risk-analysis) | Predicts loan credit risk from 20 applicant features. Compares Logistic Regression and Random Forest, explains the key risk drivers and flags fairness concerns |
+| 🤖 [**LLM Projects**](https://github.com/Gayathri-hub-cell/llm-projects) | In-car voice-command intent classifier and AI test-result analyzer, using LLaMA via the Groq API |
+| 📊 [**Data Visualization Exercises**](https://github.com/Gayathri-hub-cell/dataviz-excercises-Gayathri-Narayanan) | 12 weeks of data visualization coursework in Jupyter |
 
 ---
 
